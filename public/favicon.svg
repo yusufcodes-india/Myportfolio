@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#0C0E12" />
+  <rect x="1.5" y="1.5" width="61" height="61" rx="12.5" fill="none" stroke="#232936" stroke-width="1.5" />
+  <!-- Monogram YT -->
+  <!-- Y -->
+  <path d="M18 18 L27 33 L27 46" fill="none" stroke="#F3F4F6" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M36 18 L27 33" fill="none" stroke="#F3F4F6" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- T -->
+  <path d="M35 24 L51 24" fill="none" stroke="#14B8A6" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M43 24 L43 46" fill="none" stroke="#14B8A6" stroke-width="3.5" stroke-linecap="round" />
+  <!-- Geometric dot accent -->
+  <circle cx="49" cy="46" r="2" fill="#2DD4BF" />
+</svg>
